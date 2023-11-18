@@ -1,0 +1,5 @@
+Package: AlphaToDo
+Version: 1.0
+Architecture: amd64  
+Maintainer: Advait Keskar <thescholar8101@gmail.com>
+Description: Basic To Do List Application built using GoLang
